@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Montagem Hana",
+  "base_artist": "DJ RIO FUNK",
+  "createdAt": "2026-03-09T01:40:00.554040Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Montagem - Conga Conga (Remix)",
+      "artist": "DJ RAMON SP",
+      "has_synced": true,
+      "path": "select/01_Montagem_-_Conga_Conga_(Remix)_DJ_RAMON_SP.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Montagem Orquestra Sinfônica",
+      "artist": "dj tenebroso original",
+      "has_synced": false,
+      "path": "select/02_Montagem_Orquestra_Sinfônica_dj_tenebroso_original.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Montagem - Conga Conga (Slowed + Reverb)",
+      "artist": "DJ RAMON SP",
+      "has_synced": true,
+      "path": "select/03_Montagem_-_Conga_Conga_(Slowed_+_Reverb)_DJ_RAMON_SP.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Montagem Chapadão De Crack - Beat Mata Noia",
+      "artist": "DJPH01",
+      "has_synced": false,
+      "path": "select/04_Montagem_Chapadão_De_Crack_-_Beat_Mata_Noia_DJPH01.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "MONTAGEM DIAMANTE ROSA",
+      "artist": "vtze archive",
+      "has_synced": false,
+      "path": "select/05_MONTAGEM_DIAMANTE_ROSA_vtze_archive.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "MONTAGEM DIAMANTE ROSA",
+      "artist": "vtze archive & Mc Ster",
+      "has_synced": true,
+      "path": "select/06_MONTAGEM_DIAMANTE_ROSA_vtze_archive_&_Mc_Ster.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "MONTAGEM DIAMANTE ROSA",
+      "artist": "vtze",
+      "has_synced": false,
+      "path": "select/07_MONTAGEM_DIAMANTE_ROSA_vtze.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "MONTAGEM - ORQUESTRA SINFONICA (Kaio) - sped up",
+      "artist": "Kaio",
+      "has_synced": false,
+      "path": "select/08_MONTAGEM_-_ORQUESTRA_SINFONICA_(Kaio)_-_sped_up_Kaio.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Montagem do Batidão Viciante - Slowed",
+      "artist": "DJ F3ARL3SS",
+      "has_synced": false,
+      "path": "select/09_Montagem_do_Batidão_Viciante_-_Slowed_DJ_F3ARL3SS.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "MONTAGEM DIAMANTE ROSA - INSTRUMENTAL",
+      "artist": "vtze archive",
+      "has_synced": false,
+      "path": "select/10_MONTAGEM_DIAMANTE_ROSA_-_INSTRUMENTAL_vtze_archive.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Montagem Game 196 e Nem Começou o Filme (feat. MC Morena de SP)",
+      "artist": "DJ Blakes feat. DJ MK DA DZ7, MC VN Cria & MC Morena de SP",
+      "has_synced": false,
+      "path": "select/11_Montagem_Game_196_e_Nem_Começou_o_Filme_(feat._MC_Morena_de_SP)_DJ_Blakes_feat._DJ_MK_DA_DZ7,_MC_VN_Cria_&_MC_Morena_de_SP.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Montagem Game 196 e Nem Começou o Filme (feat. MC Morena de SP)",
+      "artist": "DJ Blakes, DJ MK DA DZ7 & MC VN Cria",
+      "has_synced": false,
+      "path": "select/12_Montagem_Game_196_e_Nem_Começou_o_Filme_(feat._MC_Morena_de_SP)_DJ_Blakes,_DJ_MK_DA_DZ7_&_MC_VN_Cria.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Montagem Yoru",
+      "artist": "DJ RIO FUNK",
+      "has_synced": false,
+      "path": "select/pl_01_Montagem_Yoru_DJ_RIO_FUNK.txt"
+    }
+  ]
+}
